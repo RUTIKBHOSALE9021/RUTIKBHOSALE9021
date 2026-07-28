@@ -5,7 +5,7 @@ I'm a **Full-Stack Developer** who enjoys building thoughtful, product-minded so
 ♟️ When I'm not coding, you'll probably find me playing chess.
 
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
 ## 🤝 Let's Connect
